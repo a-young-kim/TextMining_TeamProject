@@ -1,6 +1,7 @@
 # TextMining_TeamProject
-아마존 패션 데이터를 이용한 리뷰 생성기 
-출처 : 
+아마존 패션 데이터를 이용한 리뷰 생성기   
+출처 : https://jmcauley.ucsd.edu/data/amazon/
+
 
 ## 데이터 전처리
 
